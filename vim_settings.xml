@@ -18,9 +18,6 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimSettings">
