@@ -1,6 +1,14 @@
 <keymap version="1" name="macOS For All - My version" parent="macOS For All">
   <action id="EditorDuplicate" />
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+  </action>
   <action id="GotoFile" />
+  <action id="OverrideMethods" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl o" />
