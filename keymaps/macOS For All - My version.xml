@@ -1,0 +1,29 @@
+<keymap version="1" name="macOS For All - My version" parent="macOS For All">
+  <action id="CollapseBlock" />
+  <action id="EditorDuplicate" />
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="GotoFile" />
+  <action id="OverrideMethods" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Tool_External Tools_black">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+</keymap>
