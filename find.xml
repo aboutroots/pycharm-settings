@@ -11,5 +11,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*test*.py</mask>
     <mask>*.py</mask>
+    <mask>*.html</mask>
   </component>
 </application>
