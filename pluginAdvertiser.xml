@@ -1080,6 +1080,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="poetry.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
