@@ -9,5 +9,6 @@
     <mask>*.html</mask>
     <mask>*.py</mask>
     <mask>*test*</mask>
+    <mask>*.po</mask>
   </component>
 </application>
