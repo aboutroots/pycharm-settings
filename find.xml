@@ -10,5 +10,6 @@
     <mask>*test*</mask>
     <mask>*test*.py</mask>
     <mask>*.py</mask>
+    <mask>migration</mask>
   </component>
 </application>
