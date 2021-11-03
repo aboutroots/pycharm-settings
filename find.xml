@@ -11,7 +11,7 @@
     <mask>migration</mask>
     <mask>*url*</mask>
     <mask>admin.py</mask>
-    <mask>*.py</mask>
     <mask>*test*.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
