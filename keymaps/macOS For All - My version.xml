@@ -60,5 +60,6 @@
   </action>
   <action id="Vcs.QuickListPopupAction" />
   <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
   <action id="runShellFileAction" />
 </keymap>
